@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.btn {
+  border: 2px solid #ff0b37;
+  color: #ff0b37;
+  background-color: #ffffff;
+  font-size: 14px;
+  font-family: 'Roboto';
+  height: 40px;
+  width: 120px;
+  border-radius: 10px;
+}
+.title {
+  padding-right: 50px;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
